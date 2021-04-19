@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.lave0072',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='# docassemble.lave0072\n\nA docassemble extension.\n\n## Author\n\nKaitlyn Laverick, lave0072@flinders.edu.au\n\n',
+      long_description='# docassemble.lave0072\r\n\r\nA docassemble extension.\r\n\r\n## Author\r\n\r\nKaitlyn Laverick, lave0072@flinders.edu.au\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Kaitlyn Laverick',
       author_email='lave0072@flinders.edu.au',
